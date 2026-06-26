@@ -106,6 +106,8 @@ Insurance companies manage large volumes of policy and claims data. Manual analy
 - 🔍 Implement drill-through reports for detailed analysis.
 - 🔐 Apply Row-Level Security (RLS) for secure user access.
 
+---
+
 ✅ Conclusion
 
 The Insurance Executive Analytics Dashboard transforms raw insurance data into meaningful business insights using interactive Power BI visualizations. It helps analyze premium revenue, claims performance, agent productivity, risk exposure, and customer retention, enabling better data-driven decision-making. This project demonstrates practical skills in Power BI, Power Query, DAX, data modeling, and business intelligence reporting.

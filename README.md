@@ -1,4 +1,4 @@
-# Insurance-Executive-Analytsis-Dashboard
+# Insurance-Executive-Analytics-Dashboard
 # 🛡️ Insurance Analytics Dashboard
 
 ## 📌 Project Overview
@@ -87,11 +87,7 @@ Insurance companies manage large volumes of policy and claims data. Manual analy
 
 ### Executive Overview
 
-![Executive Overview](Dashboard_Screenshorts/Agent_Performance.png)
-
-
 ### Claims Analysis
-![Claims Analysis](Dashboard_Screenshots/Claims_Analysis.png)
 
 ### Agent Performance
 ![Agent Performance](Dashboard_Screenshots/Agent_Performance.png)

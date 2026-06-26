@@ -88,7 +88,7 @@ Insurance companies manage large volumes of policy and claims data. Manual analy
 - 🔗 [Executive Overview]()
 - 🔗 [Claims Analysis](Dashboard_Screenshots/Claims_Analysis.png)
 - 🔗 [Agent Performance](Dashboard_Screenshots/Agent_Performance.png)
-- 🔗 [Risk & Retention](Dashboard_Screenshots/Risk_Retention.png)
+- 🔗 [Risk & Retention](Dashboard_Screenshorts/Risk_Retention.png)
 
 ---
 

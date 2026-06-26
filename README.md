@@ -87,8 +87,8 @@ Insurance companies manage large volumes of policy and claims data. Manual analy
 
 ### Executive Overview
 
-![Executive Overview](https://github.com/Poojitha-Emani/Insurance-Executive-Analytsis-Dashboard/blob/main/Dashboard_Screenshorts/Executive_overview.png
-)
+![Executive Overview](Dashboard_Screenshorts/Agent_Performance.png)
+
 
 ### Claims Analysis
 ![Claims Analysis](Dashboard_Screenshots/Claims_Analysis.png)
